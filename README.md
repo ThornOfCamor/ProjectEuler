@@ -1,6 +1,7 @@
 # ProjectEuler
 NOTE: for optimized functions like isPrime, sqrtN, noOfDivisors, nCr, nPr, etc. in "lib.h" checkout: https://github.com/ThornOfCamor/Library
-Project Euler Solutions
+Note: For using the code without editting clone Library and ProjectEuler from Github into the same directory.
+Project Euler Solutions:
 
 Intial Commit: 18, 22, 67, 76 and along with input files original and modified.
 Second Commit: 1, 3.
@@ -12,3 +13,4 @@ Seventh Commit: 38, 39, 40, 41, 42, 43, 44.
 Eighth Commit: 45, 46, 47, 48, 49, 50, 51, 52, 53.
 Nineth Commit: 55, 56, 57, 58, 60, 63.
 Tenth Commit: 69, 81, 92, 206 and updated naming to include 3 digit problem numbers.
+Eleventh Commit: Library and ProjectEuler repositories moved. Updating code so that lib.h can be read.

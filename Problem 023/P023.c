@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../../Github/Library/lib.h"
+#include "../../Library/lib.h"
 
 //for lib.h check https://github.com/ThornOfCamor/Library
 //The code takes a few seconds to provide result. Patience is a virtue.

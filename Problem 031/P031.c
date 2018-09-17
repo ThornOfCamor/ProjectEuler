@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../../Github/Library/lib.h"
+#include "../../Library/lib.h"
 
 //for lib.h check https://github.com/ThornOfCamor/Library
 int coins[] = { 1, 2, 5, 10, 20, 50, 100, 200};

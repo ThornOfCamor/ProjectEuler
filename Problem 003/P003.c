@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../../Github/Library/lib.h"
+#include "../../Library/lib.h"
 
 //for lib.h check https://github.com/ThornOfCamor/Library
 //Enter the any number in the terminal to find largest prime factor.

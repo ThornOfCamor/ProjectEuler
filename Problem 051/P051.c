@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../../Github/Library/lib.h"
+#include "../../Library/lib.h"
 
 //for lib.h check https://github.com/ThornOfCamor/Library
 //2090021 is obtained for 3 0's being replaced. Answer is smaller than that.

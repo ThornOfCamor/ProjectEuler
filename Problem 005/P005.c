@@ -1,7 +1,7 @@
 #include <stdio.h>
-#include "../../Github/Library/lib.h"
-
+#include "../../Library/lib.h"
 //for lib.h check https://github.com/ThornOfCamor/Library
+
 long long int lcmn(int n){
 	if(n==1)
 		return 1;

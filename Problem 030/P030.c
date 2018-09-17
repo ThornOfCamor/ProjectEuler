@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#include "../../Github/Library/lib.h"
+#include "../../Library/lib.h"
 
 //for lib.h check https://github.com/ThornOfCamor/Library
 //There seems to be some problem with math.h module on my system. SO I have used the power5 variable.
