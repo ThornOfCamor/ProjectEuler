@@ -1,7 +1,9 @@
 # ProjectEuler
-NOTE: for optimized functions like isPrime, sqrtN, noOfDivisors, nCr, nPr, etc. in "lib.h" checkout: https://github.com/ThornOfCamor/Library
 This project belongs to Himangshu Baid (ID: 2015A7PS0082P) of Birla Institute of Science and Technology.
-Note: For using the code without editting clone Library and ProjectEuler from Github into the same directory.
+
+NOTE: for optimized functions like isPrime, sqrtN, noOfDivisors, nCr, nPr, etc. in "lib.h" checkout: https://github.com/ThornOfCamor/Library
+For using this code without editting clone Library and ProjectEuler from Github into the same directory.
+
 Project Euler Solutions:
 
 Intial Commit: 18, 22, 67, 76 and along with input files original and modified.
