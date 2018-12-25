@@ -1,5 +1,6 @@
 # ProjectEuler
 NOTE: for optimized functions like isPrime, sqrtN, noOfDivisors, nCr, nPr, etc. in "lib.h" checkout: https://github.com/ThornOfCamor/Library
+This project belongs to Himangshu Baid (ID: 2015A7PS0082P) of Birla Institute of Science and Technology.
 Note: For using the code without editting clone Library and ProjectEuler from Github into the same directory.
 Project Euler Solutions:
 
