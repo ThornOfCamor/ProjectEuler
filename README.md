@@ -1,5 +1,5 @@
 # ProjectEuler
-This project belongs to Himangshu Baid (ID: 2015A7PS0082P) of Birla Institute of Science and Technology.
+This project belongs to Himangshu Baid (ID: 2015A7PS0082P) of Birla Institute of Science and Technology, Pilani | Pilani Campus.
 
 NOTE: for optimized functions like isPrime, sqrtN, noOfDivisors, nCr, nPr, etc. in "lib.h" checkout: https://github.com/ThornOfCamor/Library
 For using this code without editting clone Library and ProjectEuler from Github into the same directory.
